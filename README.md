@@ -3,9 +3,9 @@
 I'm currently working as a data science intern at Ameren!
 
 Below are some of my proficiencies:
-- Programming Languages: Python, C++, Java, R, HTML, CSS, SQL
+- Programming Languages: Python, C++, Java, R, HTML, CSS, SQL, Typscript, Javascript
 - Libraries: Pandas, NumPy, Tensorflow, BeautifulSoup, OpenCV, Spotipy, PIL, PySpark, Seaborn, Matplotlib
-- Other Tools: Git, Github, Visual Studio, IntelliJ, PyCharm, Jupyter Notebook, RStudio
+- Other Tools: Git, Github, Visual Studio, IntelliJ, PyCharm, Jupyter Notebook, RStudio, React
 
 <!--
 **manntalati/manntalati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
