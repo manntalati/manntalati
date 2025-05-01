@@ -4,7 +4,7 @@ I'm currently working as a data science intern at Ameren!
 
 Below are some of my proficiencies:
 - Programming Languages: Python, C++, Java, R, HTML, CSS, SQL, Typscript, Javascript
-- Libraries: Pandas, NumPy, Tensorflow, BeautifulSoup, OpenCV, Spotipy, PIL, PySpark, Seaborn, Matplotlib
+- Libraries: Pandas, NumPy, Tensorflow, PySpark, BeautifulSoup, OpenCV, Spotipy, PIL, Seaborn, Matplotlib
 - Other Tools: Git, Github, Visual Studio, IntelliJ, PyCharm, Jupyter Notebook, RStudio, React
 
 <!--
