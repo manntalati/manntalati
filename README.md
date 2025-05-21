@@ -1,6 +1,10 @@
 ## Hi 👋
 
-I'm currently working as a data science intern at Ameren!
+🔭 Working as a data science intern at Ameren!
+
+🌱 Learning new ai/ml & backend tech stacks
+
+👯 Collaborating on uiuc-lifestyle
 
 Below are some of my proficiencies:
 - Programming Languages: Python, C++, Java, R, HTML, CSS, SQL, Typscript, Javascript
