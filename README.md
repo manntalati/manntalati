@@ -4,7 +4,7 @@
 
 🌱 Learning new ai/ml & backend tech stacks
 
-👯 Collaborating on uiuc-lifestyle
+👯 Collaborating on uiuc-lifestyle & working on ai project
 
 Below are some of my proficiencies:
 - Programming Languages: Python, C++, Java, R, HTML, CSS, SQL, Typscript, Javascript
