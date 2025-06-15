@@ -8,7 +8,7 @@
 
 
 
-## Tech Stack:
+## Tech Stack
 
 <div className="stack">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
@@ -51,6 +51,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
     </a>
 </div>
+
+## Github Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manntalati&show_icons=true&theme=nord)
 
 <!--
 **manntalati/manntalati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
