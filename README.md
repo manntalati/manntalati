@@ -1,6 +1,6 @@
 ## Hi, I'm Mann! 👋
 
-🎓 Student passionate about **AI/ML, Software Engineering, and the Cloud**  
+🎓 Student passionate about **AI/ML, Software Engineering, and Cloud Technologies**  
 🔭 Currently a Data Science Intern at Ameren  
 🌱 Learning new AI/ML & backend tech stacks  
 🤝 Collaborating on uiuc-lifestyle & working on ai project
