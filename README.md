@@ -26,7 +26,7 @@
 
 
 ## Github Stats
-![Mann's GitHub Stats](https://streak-stats.demolab.com?user=manntalati)](https://git.io/streak-stats)
+![Mann's GitHub Stats](https://streak-stats.demolab.com?user=manntalati)
 <!--![Mann's GitHub stats](https://github-readme-stats.vercel.app/api?username=manntalati&show_icons=true&theme=nord)-->
 
 <!--
