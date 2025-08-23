@@ -2,7 +2,7 @@
 
 🎓 Student passionate about **AI/ML, Software Engineering, and Cloud Technologies**  
 🌱 Learning new AI/ML tech & backend stacks  
-🤝 Collaborating on uiuc-lifestyle & working on ai/ml projects
+🤝 Collaborating on uiuc lifestyle & working on ai/ml projects
 
 
 
