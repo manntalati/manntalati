@@ -26,6 +26,7 @@
 
 
 ## Github Stats
+[![ProfileViews](https://komarev.com/ghpvc/?username=manntalati&color=red&style=flat)](https://komarev.com/ghpvc/?username=manntalati)
 ![Mann's GitHub Stats](https://streak-stats.demolab.com?user=manntalati&theme=vitesse)
 <!--![Mann's GitHub stats](https://github-readme-stats.vercel.app/api?username=manntalati&show_icons=true&theme=nord)-->
 
