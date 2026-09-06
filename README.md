@@ -1,10 +1,8 @@
 ## Hi, I'm Mann! 👋
 
-🎓 Student passionate about **AI/ML, Software Engineering, and Cloud Technologies**  
+🎓 Student passionate about **Machine Learning, Autonomous Vehicles, and Artificial intelligence**  
 🌱 Learning new AI/ML tech & backend stacks  
-🤝 Collaborating on uiuc lifestyle & working on ai/ml projects
-
-
+🤝 Working on ai/ml projects
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -23,7 +21,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-
 
 ## Github Stats
 [![ProfileViews](https://komarev.com/ghpvc/?username=manntalati&color=red&style=flat)](https://komarev.com/ghpvc/?username=manntalati)
